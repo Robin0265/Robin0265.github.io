@@ -16,15 +16,15 @@ sidebar:
     email: RobinYoung501@outlook.com
     phone: +1 (734) 882-8073
     timezone: America/Detroit # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    # citizenship:
-    # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    # linkedin: alandoe
+    citizenship:
+    website: # Include the full website URL, including "http://" or "https://".
+    linkedin:
     github: Robin0265
     telegram: @RobinY501 # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@jekyllrb'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
@@ -56,15 +56,16 @@ sidebar:
         - item: Cooking
           link:
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
+career-profile:
+    # title: Career Profile
+    # summary: |
+    #   Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    #   adipiscing elit. You can [download this free resume/CV template here]().
+    #   Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    #   penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    #   Donec quam felis, ultricies nec, pellentesque eu.
+    #   Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -132,46 +133,46 @@ experiences:
             - Bullet point
             - Bullet point
 
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+certifications:
+      # title: Certifications
+      # list:
+      #   - name: CV Builder
+      #     start: 2020
+      #     end: 2021
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.google.com
+      #     credentialname: Google
+      #     details: |
+      #       Details about cert. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+      #       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      #       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      #       justo diam viverra velit, sed rhoncus leo leo eu justo.
+      #       Suspendisse placerat risus ante, sed porta nisi blandit at.
+      #   - name: Git learning
+      #     start: 2019
+      #     end:
+      #     organization: Microsoft
+      #     credentialid: 111-222
+      #     credentialurl: www.github.com
+      #     credentialname: Github
+      #     details: |
+      #       Older certification. Lorem ipsum dolor sit amet, consectetur
+      #       adipiscing elit.
+      #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #       Aenean fermentum, felis vulputate suscipit accumsan,
+      #       sem enim bibendum augue, sed convallis arcu lacus at dui.
+      #       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      #       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      #       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -200,46 +201,46 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+    # title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # contributions:
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
